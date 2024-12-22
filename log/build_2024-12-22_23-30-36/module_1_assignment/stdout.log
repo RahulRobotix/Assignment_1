@@ -1,0 +1,40 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'cppcheck' to perform static code analysis on C / C++ code
+-- Configured cppcheck include dirs: /home/rahul/Desktop/module_1_assignment/include
+-- Configured cppcheck exclude dirs and/or files: 
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'uncrustify' to check C / C++ code style
+-- Configured uncrustify additional arguments: 
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rahul/Desktop/module_1_assignment/build/module_1_assignment
+[35m[1mConsolidate compiler generated dependencies of target task_3[0m
+[35m[1mConsolidate compiler generated dependencies of target task_4[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/task_3.dir/src/task_3_main.cpp.o[0m
+[ 33%] [32mBuilding CXX object CMakeFiles/task_4.dir/src/main.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/task_4.dir/src/Actuator.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/task_4.dir/src/Robot.cpp.o[0m
+[ 83%] [32m[1mLinking CXX executable task_3[0m
+[100%] [32m[1mLinking CXX executable task_4[0m
+[100%] Built target task_3
+[100%] Built target task_4
+-- Install configuration: ""
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/ament_index/resource_index/package_run_dependencies/module_1_assignment
+-- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/ament_index/resource_index/parent_prefix_path/module_1_assignment
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/ament_prefix_path.sh
+-- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/path.sh
+-- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/path.dsv
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.bash
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.sh
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.zsh
+-- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.dsv
+-- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/package.dsv
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/ament_index/resource_index/packages/module_1_assignment
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/cmake/module_1_assignmentConfig.cmake
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/cmake/module_1_assignmentConfig-version.cmake
+-- Up-to-date: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/package.xml

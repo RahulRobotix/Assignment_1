@@ -1,0 +1,55 @@
+[0.017s] Invoking command in '/home/rahul/Desktop/module_1_assignment/build/module_1_assignment': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rahul/Desktop/module_1_assignment -DCMAKE_INSTALL_PREFIX=/home/rahul/Desktop/module_1_assignment/install/module_1_assignment
+[0.131s] -- The C compiler identification is GNU 11.4.0
+[0.236s] -- The CXX compiler identification is GNU 11.4.0
+[0.249s] -- Detecting C compiler ABI info
+[0.385s] -- Detecting C compiler ABI info - done
+[0.401s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.401s] -- Detecting C compile features
+[0.402s] -- Detecting C compile features - done
+[0.408s] -- Detecting CXX compiler ABI info
+[0.565s] -- Detecting CXX compiler ABI info - done
+[0.583s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.583s] -- Detecting CXX compile features
+[0.584s] -- Detecting CXX compile features - done
+[0.589s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.857s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.015s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.155s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.155s] -- Configured cppcheck include dirs: 
+[1.155s] -- Configured cppcheck exclude dirs and/or files: 
+[1.160s] -- Added test 'lint_cmake' to check CMake code style
+[1.175s] -- Added test 'uncrustify' to check C / C++ code style
+[1.175s] -- Configured uncrustify additional arguments: 
+[1.177s] -- Added test 'xmllint' to check XML markup files
+[1.180s] -- Configuring done
+[1.192s] -- Generating done
+[1.196s] -- Build files have been written to: /home/rahul/Desktop/module_1_assignment/build/module_1_assignment
+[1.204s] Invoked command in '/home/rahul/Desktop/module_1_assignment/build/module_1_assignment' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/rahul/Desktop/module_1_assignment -DCMAKE_INSTALL_PREFIX=/home/rahul/Desktop/module_1_assignment/install/module_1_assignment
+[1.209s] Invoking command in '/home/rahul/Desktop/module_1_assignment/build/module_1_assignment': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rahul/Desktop/module_1_assignment/build/module_1_assignment -- -j4 -l4
+[1.306s] [ 16%] [32mBuilding CXX object CMakeFiles/task_4.dir/src/Actuator.cpp.o[0m
+[1.307s] [ 33%] [32mBuilding CXX object CMakeFiles/task_4.dir/src/main.cpp.o[0m
+[1.324s] [ 50%] [32mBuilding CXX object CMakeFiles/task_3.dir/src/task_3_main.cpp.o[0m
+[1.338s] [ 66%] [32mBuilding CXX object CMakeFiles/task_4.dir/src/Robot.cpp.o[0m
+[2.224s] [ 83%] [32m[1mLinking CXX executable task_3[0m
+[2.292s] [100%] [32m[1mLinking CXX executable task_4[0m
+[2.420s] [100%] Built target task_3
+[2.464s] [100%] Built target task_4
+[2.481s] Invoked command in '/home/rahul/Desktop/module_1_assignment/build/module_1_assignment' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/rahul/Desktop/module_1_assignment/build/module_1_assignment -- -j4 -l4
+[2.565s] Invoking command in '/home/rahul/Desktop/module_1_assignment/build/module_1_assignment': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rahul/Desktop/module_1_assignment/build/module_1_assignment
+[2.578s] -- Install configuration: ""
+[2.578s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/ament_index/resource_index/package_run_dependencies/module_1_assignment
+[2.578s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/ament_index/resource_index/parent_prefix_path/module_1_assignment
+[2.579s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/ament_prefix_path.sh
+[2.579s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/ament_prefix_path.dsv
+[2.579s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/path.sh
+[2.580s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/environment/path.dsv
+[2.580s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.bash
+[2.580s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.sh
+[2.581s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.zsh
+[2.581s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/local_setup.dsv
+[2.581s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/package.dsv
+[2.582s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/ament_index/resource_index/packages/module_1_assignment
+[2.582s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/cmake/module_1_assignmentConfig.cmake
+[2.582s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/cmake/module_1_assignmentConfig-version.cmake
+[2.583s] -- Installing: /home/rahul/Desktop/module_1_assignment/install/module_1_assignment/share/module_1_assignment/package.xml
+[2.587s] Invoked command in '/home/rahul/Desktop/module_1_assignment/build/module_1_assignment' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/rahul/Desktop/module_1_assignment/build/module_1_assignment
